@@ -1,0 +1,14 @@
+1. LinearRegression
+    rmse:4.829321492635759
+    mean:  5.030437102767306
+    std:  1.0607661158294837
+
+2. DecisionTreeRegressor
+    rmse:0.0
+    mean:  4.315057698424135
+    std:  0.7352315784191791
+
+3. RandomForestRegressor
+    rmse:1.1910453339918512
+    mean:  3.3154844361119586
+    std:  0.6654513138423302
